@@ -16,3 +16,12 @@ a {
 .top{
 	margin-top: 50px;
 }
+
+#map-canvas{
+	height: 500px; 
+
+}
+
+.select{
+	width: 175px;
+}
